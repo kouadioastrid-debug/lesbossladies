@@ -1,0 +1,10 @@
+{
+  "description": "Creates professional sales pages tailored for coaches to showcase services and convert visitors into clients effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
